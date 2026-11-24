@@ -1,6 +1,6 @@
 # Hi, I'm Mateus 👋
 
-Software engineer from Brazil (UTC-4) building backend and full-stack applications: **Java/Spring Boot** and Python/Django on the server, JavaScript and **React** on the client. Around 3 years of hands-on development and 1+ year of release engineering and CI/CD, after 6+ years in IT infrastructure, SQL and ERP systems.
+Software engineer from Brazil (UTC-4) building backend and full-stack applications: **Java/Spring Boot** and Python/Django on the server, JavaScript and **React** on the client. Around 4 years of hands-on development and 1+ year of release engineering and CI/CD, after 6+ years in IT infrastructure, SQL and ERP systems.
 
 Open to remote roles with global teams.
 
